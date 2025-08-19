@@ -34,7 +34,7 @@ It’s part of my learning journey to strengthen JavaScript skills by building s
 ## 🙌 Thanks for checking this out!
 
 Feel free to fork, improve, or suggest changes.  
-Happy coding!
+Happy coding!_Inspired by learning projects shared by Iman Madaeni and other great educators._
 
 ---
 
